@@ -1,0 +1,6 @@
+	Vegetable   object	Season    object	Weight (gm)  int64	Price (tk)   int64
+0	Cauliflower	Summer	600	60
+1	Cabbage	Summer	300	80
+2	Radish	Winter	850	25
+3	Eggplant	Winter	700	60
+4	Spinach	Summer	250	50
